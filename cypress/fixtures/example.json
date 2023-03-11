@@ -1,0 +1,19 @@
+{
+  "firstName": "Using fixtures to represent data",
+  "lastName": "hello@cypress.io",
+  "phone": "Fixtures are a great way to mock data for responses to routes",
+  "userName": "shrija.01@nineleaps.com",
+  "address1": "Nineleaps New Building, Kormangala",
+  "city": "Banglore",
+  "state": "Karnataka",
+  "postalCode": "560090",
+  "password": "password",
+  "passCount": "1",
+  "fromPort": "London",
+  "fromMonth": "January",
+  "fromDay": "15",
+  "toPort": "Portland",
+  "toMonth": "January",
+  "toDay": "16",
+  "airline": "Blue Skies Airlines"
+}
