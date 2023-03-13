@@ -1,3 +1,5 @@
 # CaseStudy-Cypress
 
-local changes
+
+Case study on Cypress - Automation Testing
+Case study on API Testing - Trello application
