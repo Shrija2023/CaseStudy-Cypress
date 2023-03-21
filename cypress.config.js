@@ -7,5 +7,8 @@ module.exports = defineConfig({
     setupNodeEvents,
       // implement node event listeners here
       specPattern: 'cypress/automate/*.js',
+    env: {
+      OrangeHRM_HomePage: "https://opensource-demo.orangehrmlive.com/web/index.php/auth/login"
+    }
   },
 });
